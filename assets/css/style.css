@@ -1,0 +1,26 @@
+.topbar-bg {
+    background-color: #F5F7FB;
+}
+
+.text-comon-color {
+    color: #516882;
+}
+
+.footer-bg {
+    background-color: #2F4052;
+}
+.small-footer-bg {
+    background-color: #283645;
+}
+.hero-bg-img {
+    background-image: url("../../assets/img/slider01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.comon-bg-btn {
+    background-color: #00BC9C;
+}
+.comon-icon-color {
+    color: #00BC9C;
+}
